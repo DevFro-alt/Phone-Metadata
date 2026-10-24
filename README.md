@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 📞 Scam Call Investigation & Phone OSINT Guide
 
 Recently, we received **unknown calls** from numbers not saved in our contacts that exhibited a *suspicious pattern*—several numbers appeared nearly identical, differing by only ~20% of their digits. We identified these as **call scammers**.
